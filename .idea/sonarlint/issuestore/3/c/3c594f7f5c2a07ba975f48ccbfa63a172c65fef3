@@ -1,0 +1,10 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¨¿ì¨ÿÿÿÿÿ
+G
+java:S1135
+"2Complete the task associated to this TODO comment.(£°§\
+Q	java:S125"<This block of commented-out lines of code should be removed.(¹ý¹º
+l
+java:S1104 "QMake total a static final constant or non-public and provide accessors if needed.(Ž×øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·£Äêýÿÿÿÿ

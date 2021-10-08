@@ -1,0 +1,9 @@
+
+G
+java:S1135"2Complete the task associated to this TODO comment.(£°§\
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä›ÇÃ
+]	java:S125"<This block of commented-out lines of code should be removed.(ùÿÃÐùÿÿÿÿ8±÷šªº/
+m
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'LongUnaryOperator'(˜Ó’¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä±à
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·£Äêýÿÿÿÿ
